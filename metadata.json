@@ -1,0 +1,7 @@
+{
+  "name": "你的玄学日记 - 命书和INFO",
+  "description": "A visual diary that turns your memories into stardust and stories using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
